@@ -1,7 +1,7 @@
 # **Swappify.app**
 O [aplicatie web](http://swappify.app "aplicatie web") simpla si intuitiva pentru schimbarea trasaturilor faciale(deepfake)!
 
-##Descriere
+## Descriere
 
 V-ati dorit vreodata ca profesorul vostru de fizica sa fie chiar **Einstein**? Sau poate sa faceti chimia cu **Marie Curie**? Acum totul este posibil fara a irosi resurse pe makeup profesional si actori, ci puteti face totul online, usor si rapid pe site-ul nostru!
 
