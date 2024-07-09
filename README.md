@@ -39,7 +39,7 @@ Deoarece stiu ca acest proiect poate fi folosit in scopuri negative, am decis sa
 - (optional) verificarea manuala, in panoul de administrator
 ### Limbaje de programare utilizare si librarii
 - Frondendul a fost realizat in **HTML,CSS si JS**, utlilzand **Bootstrap** ca framework
-- Backendul a fost realizat in **PHP, MYSQL **(pentru baza de date)
+- Backendul a fost realizat in **PHP, MYSQL**(pentru baza de date)
 - Aplicatia propriu-zisa a fost realizata in **Python**
 #### Librarii
 - pentru aplicatia de deepfake si conexiunea cu baza de date am utilizat **insightface**,**OpenCV**,**tensorflow**,**onnxruntime**,**numpy**,**mysql** ,**OpenNSFW2**
