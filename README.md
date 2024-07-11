@@ -3,18 +3,15 @@ O [aplicatie web](http://swappify.app "aplicatie web") simpla si intuitiva pentr
 
 ## Descriere
 
-V-ati dorit vreodata ca profesorul vostru de fizica sa fie chiar **Einstein**? Sau poate sa faceti chimia cu **Marie Curie**? Acum totul este posibil fara a irosi resurse pe makeup profesional si actori, ci puteti face totul online, usor si rapid pe site-ul nostru!
+V-ati dorit vreodata ca profesorul vostru de fizica sa fie chiar **Albert Einstein**? Sau poate ca **Marie Curie** sa va explice misterele chimiei? Acum totul este posibil fara a irosi resurse pe makeup profesional si actori, puteti face totul online, usor si rapid pe site-ul nostru.
 
 ### De ce?
 
-Dupa ce am trecut prin 10 ani de scoala(stiu, nu sunt multi),am realizat ca o problema principala a sistemului de invatamant romanesc este **lipsa creativitatii in predare**. Copiii s-au schimbat, atentia lor s-a schimbat, iar acestia nu retin eficient lectiile atunci cand sunt predate monoton si plictisitor.
-Dar cum ar fi ca acestia sa poata fi captivati in lumea cunoasterii?
-Cum ar fi, ca de exemplu, teorema relativitatii sa fie predata chiar de faimosul fizician **Einstein**?
-Ati spune ca e **imposibil**,ca acesta nu mai traieste si chiar daca am realiza acum un video cu o replica de a lui, ar costa foarte multi bani!
+Am realizat că o problemă principală a sistemului de învățământ românesc este lipsa creativității în predare. Copiii s-au schimbat, si odata cu acestia si nevoile lor au suferit modificari.Intr-o era a tehnologiei atentia si dedicarea nu mai pot fi singurele virtuti ale elevilor. Aceștia nu rețin eficient lectiile atunci când sunt predate monoton și plictisitor. Cum ar fi, de exemplu, ca teorema relativității să fie predată chiar de faimosul fizician **Einstein**? Ați spune că e **imposibil**, că acesta nu mai trăiește și chiar dacă am realiza acum un video cu o replică de-a lui, ar costa foarte mulți bani!
 **Dar cum ar fi daca totul s-ar putea realiza cu o camera video si putina creativitate?**
 
 ### Cum functioneaza?
-Cu ajutorul inteligentei artificiale, care a devenit o mare unealta a secolului 21, putem modifica trasaturile faciale ale orcarei persoane cu orice fata doriti!
+Cu ajutorul inteligentei artificiale, care a devenit o unealta indispensabila in secolului 21, putem modifica trasaturile faciale ale orcarei persoane cu orice fata doriti!
 ### De ce sa ne folositi?
 Alte servicii au
 - timp de asteptare mare (uneori chiar cate 12 ore!)
